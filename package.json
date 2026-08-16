@@ -1,0 +1,28 @@
+{
+  "name": "instructor-outreach-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moh-Sad/instructor-outreach-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Moh-Sad/instructor-outreach-automation/issues"
+  },
+  "homepage": "https://github.com/Moh-Sad/instructor-outreach-automation#readme",
+  "dependencies": {
+    "csv-parse": "^7.0.2",
+    "dotenv": "^17.4.2",
+    "google-auth-library": "^11.0.2",
+    "google-spreadsheet": "^5.3.0",
+    "groq-sdk": "^1.5.0"
+  }
+}

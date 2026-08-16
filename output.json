@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Isebella",
+    "subject": "Digital Marketing",
+    "profile_note": "5 years teaching experience, active on LinkedIn",
+    "message": "Hi Isebella, I came across your profile and noticed your teaching experience and active presence on LinkedIn - you seem like a great fit for our platform. We're looking for experts like you to create courses on Zelaki Learn and think a Digital Marketing course would really resonate with our audience. Would love to hear your thoughts on collaborating and creating something engaging for us.",
+    "status": "draft_generated"
+  },
+  {
+    "name": "Nahoom",
+    "subject": "Web Development",
+    "profile_note": "Junior instructor, strong in React",
+    "message": "Hi Nahoom, I've seen your work and am impressed by your React skills. As a junior instructor with a growing online teaching presence, I think you could bring a fresh perspective to Zelaki Learn's courses. Would you be interested in collaborating with us to develop and teach a Web Development course? I'd love to chat more about this opportunity.",
+    "status": "draft_generated"
+  }
+]
