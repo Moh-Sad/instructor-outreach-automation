@@ -3,7 +3,8 @@ name: Weekly Instructor Outreach
 on:
   schedule:
     - cron: '0 8 * * 1'   # every Monday at 8:00 UTC      
-
+  workflow_dispatch:
+  
 jobs:
   run-outreach:
     runs-on: ubuntu-latest
